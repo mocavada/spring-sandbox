@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebbe3763-b746-493f-803e-e2fb1d34b198" name="Default Changelist" comment="going to data structures">
+      <change afterPath="$PROJECT_DIR$/.idea/consolestorage/flexible_search_region.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/consolestorage/solr_region.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java.moc.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java.moc.app.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java.moc.app.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/001123a6bab894fd6792e32c6e7ba6572da2ac7d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2dc24c7d22209d35bd52d3e2e6839bf9b9d27b4e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/434a1faa60f56e8fac210ccb28a732f885792639" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54f24a877dc8a25ad0553ab863245c94a3be7af4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66680d8d083ad0148f57d2dccd5548334206d66e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/765e3fc033975cf98084dfacd40c2d8f46c8fe73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f770671ab47b6db191c13540671b391eb77a22a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a2c9e7226147ebca6585b3fe3587d5b3d35a5b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c8b125bd6ff1a811323e6e0a0afef3f0f0fb190" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f3401e5d31bc92acb3e34dbbdadf921037c425d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a49b846f4b4b4b5d2b395af20d488f3980a6be1d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6b646dda93b950f92e96f882b4408c7a8d3ed03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8dda57de45a6585b4559e5c7d8bb2ebf21b2488" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9ad3045a8740a99e93c8c141bc2e35126c54333" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2320c9d7bb05df7eabbe5df0b8633b2c648b314" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eedbbae25d4b5609e737140230a04db294863cd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef6c81c987153178233486769d0201f05b3bbbc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/efe3795b5f9b0f2cb28a3521bf0801c42d890317" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/DataStructure_Advance/A_LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/DataStructure_Advance/B_StoreQueue$Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/DataStructure_Advance/B_StoreQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/DataStructure_Advance/D_Hashmaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/A_FunctionalInterfaces$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/A_FunctionalInterfaces$GreetingMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/A_FunctionalInterfaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/B_Lambdas$GreetingMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/B_Lambdas$MessagePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/B_Lambdas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/C_MethodReferences/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/C_MethodReferences/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/C_MethodReferences/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/D_Streams/Books.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/FunctionalProgramming_Advance/D_Streams/Library.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/A_GenericsMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/B_VarArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/C_SubstitionPrinciple/Building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/C_SubstitionPrinciple/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/C_SubstitionPrinciple/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/C_SubstitionPrinciple/Office.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/DataStructure_Advance/A_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/DataStructure_Advance/B_StoreQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/DataStructure_Advance/D_Hashmaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/A_FunctionalInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/B_Lambdas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/C_MethodReferences/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/C_MethodReferences/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/C_MethodReferences/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/D_Streams/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/D_Streams/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/A_GenericsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/B_VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/C_SubstitionPrinciple/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/C_SubstitionPrinciple/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/C_SubstitionPrinciple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/C_SubstitionPrinciple/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/GenericsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/LiskovSubPrinciple$Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/LiskovSubPrinciple$Office.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/LiskovSubPrinciple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/moc/app/Generics_Advance/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/moc/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/moc/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/GenericsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/LiskovSubPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moc/app/Generics_Advance/VarArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/moc/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/moc/app/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U1jgq7cXvYLef8y6AOnzx6xmqV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="moc.app.FunctionalProgramming.Streams" />
+      <recent name="moc.app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="A_FunctionalInterfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moc.app.FunctionalProgramming_Advance.A_FunctionalInterfaces" />
+      <module name="java.moc.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moc.app.FunctionalProgramming_Advance.D_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_Lambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moc.app.FunctionalProgramming_Advance.B_Lambdas" />
+      <module name="java.moc.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moc.app.FunctionalProgramming_Advance.D_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moc.app.FunctionalProgramming_Advance.D_Streams.Library" />
+      <module name="java.moc.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moc.app.FunctionalProgramming_Advance.D_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moc.app.Main" />
+      <module name="java.moc.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cMethodreferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moc.app.FunctionalProgramming.cMethodreferences" />
+      <module name="java.moc.app.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="moc.app.FunctionalProgramming_Advance.D_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.cMethodreferences" />
+        <item itemvalue="Application.B_Lambdas" />
+        <item itemvalue="Application.A_FunctionalInterfaces" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebbe3763-b746-493f-803e-e2fb1d34b198" name="Default Changelist" comment="" />
+      <created>1574531109237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574531109237</updated>
+      <workItem from="1574531113293" duration="7009000" />
+      <workItem from="1574684125155" duration="27000" />
+      <workItem from="1574692426111" duration="16021000" />
+      <workItem from="1574983531891" duration="1365000" />
+      <workItem from="1574990622515" duration="798000" />
+      <workItem from="1580850609170" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="going to data structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="going to data structures" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1175" height="279" key="GridCell.Tab.0.bottom" timestamp="1580850820119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580850820119" />
+    <state width="1175" height="279" key="GridCell.Tab.0.center" timestamp="1580850820119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580850820119" />
+    <state width="1175" height="279" key="GridCell.Tab.0.left" timestamp="1580850820119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580850820119" />
+    <state width="1175" height="279" key="GridCell.Tab.0.right" timestamp="1580850820119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1175" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580850820119" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/A_FunctionalInterfaces.java</url>
+          <line>11</line>
+          <properties class="moc.app.FunctionalProgramming_Advance.A_FunctionalInterfaces" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/moc/app/FunctionalProgramming_Advance/B_Lambdas.java</url>
+          <line>15</line>
+          <properties class="moc.app.FunctionalProgramming_Advance.B_Lambdas" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

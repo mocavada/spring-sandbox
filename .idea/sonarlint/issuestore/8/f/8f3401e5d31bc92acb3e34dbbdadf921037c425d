@@ -1,0 +1,12 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¤8«Œ˜šê-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥ÿæìüÿÿÿÿ
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÀÜ¨8¬Åèšê-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ÀÜ¨8¼ô¡šê-
+squid:S1319"qThe type of the "queue" object should be an interface such as "List" rather than the implementation "LinkedList".(À’€‚8¢äºšê-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÅÂô
+Osquid:S1068"1Remove this unused "hasBeenServed" private field.(œÊ° 8íÆ™šê-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ªï8ù³­šê-

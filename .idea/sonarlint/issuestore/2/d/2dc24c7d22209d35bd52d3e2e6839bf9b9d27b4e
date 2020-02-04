@@ -1,0 +1,17 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò¨íõşÿÿÿÿ8Ñ›¤¦ë-
+qsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÈÅº8Ñ›¤¦ë-
+qsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÔÚĞ¨8Ñ›¤¦ë-
+osquid:S1192'"LDefine a constant instead of duplicating this literal "Jane Austen" 4 times.(ÇÖéæøÿÿÿÿ8Ñ›¤¦ë-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Å ÷
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(†½ù18Ñ›¤¦ë-
+qsquid:S1192"NDefine a constant instead of duplicating this literal "Toni Morrison" 3 times.(¶ùÖüÿÿÿÿ8Ñ›¤¦ë-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(†½ù18Ñ›¤¦ë-
+rsquid:S1192$"ODefine a constant instead of duplicating this literal "Kazuo Ishiguro" 3 times.(©Ö›ıÿÿÿÿ8Ñ›¤¦ë-
+qsquid:S1192+"NDefine a constant instead of duplicating this literal "Chinua Achebe" 3 times.(ÖÀÏ£ùÿÿÿÿ8Ñ›¤¦ë-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(•‚¸˜şÿÿÿÿ8´…£¦ë-
+psquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(èÎ†C8Ñ›¤¦ë-

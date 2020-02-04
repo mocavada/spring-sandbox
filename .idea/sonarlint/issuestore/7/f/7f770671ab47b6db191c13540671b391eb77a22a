@@ -1,0 +1,11 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰×»î
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(°ç“’ûÿÿÿÿ8Æïİ›ê-
+esquid:S1192"GDefine a constant instead of duplicating this literal "Brenda" 4 times.(—‹à¿8êÊì›ê-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ØÈ–÷8·şˆœê-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢ÅÂô
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8Ûìœê-
+gsquid:S4143"DVerify this is the key that was intended; it was already set before.(Ôäş úÿÿÿÿ8íÖ„œê-
